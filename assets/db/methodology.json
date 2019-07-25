@@ -1,0 +1,69 @@
+{
+    "header_color": "RED_COLOR",
+    "content_color": "grey",
+    "bg_color": "white",
+    "chapter_border_color": "grey",
+    "chapter_icon_color": "BLUE_COLOR",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    },
+    "container_classes": "m-top--1 m-bottom--1",
+    "items": [
+        {
+            "id": "main",
+            "header_color": "BLUE_COLOR",
+            "content_color": "grey",
+            "has_img": true,
+            "header_classes": "text--left",
+            "paragraphs_classes": {
+                "0": "text--left"
+            }
+        },
+        {
+            "id": "materials",
+            "header_color": "BLUE_COLOR",
+            "content_color": "grey",
+            "has_img": false,
+            "header_classes": "text--left",
+            "paragraphs_classes": {
+                "0": "text--left"
+            }
+        },
+        {
+            "id": "success",
+            "header_color": "BLUE_COLOR",
+            "content_color": "grey",
+            "has_img": false,
+            "header_classes": "text--left",
+            "paragraphs_classes": {
+                "0": "text--left"
+            }
+        }
+    ],
+    "originals": {
+        "header_color": "BLUE_COLOR",
+        "items": [
+            {
+                "id": "childs_house",
+                "link": "https://drive.google.com/open?id=1j_RnRI87SxNuwF36-g_1mCT2YqxkyBlT#",
+                "color": "grey"
+            },
+            {
+                "id": "help_me",
+                "link": "https://drive.google.com/open?id=1a4V0fnGAPM6HcCivvndqisyswbtopK1o#",
+                "color": "grey"
+            },
+            {
+                "id": "my_method",
+                "link": "https://drive.google.com/open?id=1cNZxfguLd15jNaJAYNomKlzN4O8YnMrK#",
+                "color": "grey"
+            },
+            {
+                "id": "absorbent_mind",
+                "link": "https://drive.google.com/open?id=1QzpL0xz8LUcaUt_vaBYFi1OsTWdY7iY5#",
+                "color": "grey"
+            }
+        ]
+    }
+}

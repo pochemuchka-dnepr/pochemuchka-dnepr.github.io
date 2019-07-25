@@ -1,0 +1,43 @@
+{
+    "header_color": "grey",
+    "header_classes": "m-bottom--2 text--center",
+    "container_classes": "",
+    "items": [
+        {
+            "id": "infant",
+            "count": 11,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        },
+        {
+            "id": "toddler",
+            "count": 9,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        },
+        {
+            "id": "preschooler",
+            "count": 12,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        },
+        {
+            "id": "school",
+            "count": 7,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        },
+        {
+            "id": "events",
+            "count": 14,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        },
+        {
+            "id": "environment",
+            "count": 15,
+            "header_color": "grey",
+            "header_classes": "fs--1 text--center"
+        }
+    ]
+}

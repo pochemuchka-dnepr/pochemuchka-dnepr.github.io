@@ -1,0 +1,38 @@
+{
+    "ru": {
+        "base": {
+            "read_about": "читать о нас",
+            "sign_up": "записаться",
+            "request_call": "заказать звонок",
+            "see_schedule": "смотреть график",
+            "see_all_photos": "смотреть все фото",
+            "read": "читать",
+            "read_more": "читать подробнее",
+            "download": "скачать"
+        }
+    },
+    "en": {
+        "base": {
+            "read_about": "читать о нас",
+            "sign_up": "записаться",
+            "request_call": "заказать звонок",
+            "see_schedule": "смотреть график",
+            "see_all_photos": "смотреть все фото",
+            "read": "читать",
+            "read_more": "читать подробнее",
+            "download": "скачать"
+        }
+    },
+    "uk": {
+        "base": {
+            "read_about": "читать о нас",
+            "sign_up": "записаться",
+            "request_call": "заказать звонок",
+            "see_schedule": "смотреть график",
+            "see_all_photos": "смотреть все фото",
+            "read": "читать",
+            "read_more": "читать подробнее",
+            "download": "скачать"
+        }
+    }
+}

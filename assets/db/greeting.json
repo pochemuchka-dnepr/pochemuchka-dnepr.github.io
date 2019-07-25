@@ -1,0 +1,53 @@
+{
+    "header_color": "grey",
+    "content_color": "grey",
+    "bg_color": "transparent",
+    "header_classes": "text--center text--bold",
+    "paragraphs_classes": {
+        "0": "text--center text--italic text--bold",
+        "1": "text--center text--italic text--bold"
+    },
+    "container_classes": "m-top--1 m-bottom--1",
+    "items": [
+        {
+            "id": "license",
+            "icon_color": "blue",            
+            "header_color": "grey",
+            "content_color": "grey",
+            "header_classes": "text--center text--uppercase fs--1",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "team",
+            "icon_color": "orange",
+            "header_color": "grey",
+            "content_color": "grey",
+            "header_classes": "text--center text--uppercase fs--1",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "environment",
+            "icon_color": "red",
+            "header_color": "grey",
+            "content_color": "grey",
+            "header_classes": "text--center text--uppercase fs--1",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "experience",
+            "icon_color": "GREEN_COLOR",
+            "header_color": "grey",
+            "content_color": "grey",
+            "header_classes": "text--center text--uppercase fs--1",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        }
+    ]
+}

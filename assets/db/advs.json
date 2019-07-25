@@ -1,0 +1,32 @@
+[
+  {
+    "id": "choose_the_best",
+    "bg_color": "BLUE_COLOR",
+    "header_color": "YELLOW_COLOR",
+    "content_color": "WHITE_COLOR",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    }
+  },
+  {
+    "id": "temp",
+    "bg_color": "BLUE_COLOR",
+    "header_color": "YELLOW_COLOR",
+    "content_color": "WHITE_COLOR",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    }
+  },
+  {
+    "id": "parents",
+    "bg_color": "BLUE_COLOR",
+    "header_color": "YELLOW_COLOR",
+    "content_color": "WHITE_COLOR",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    }
+  }
+]

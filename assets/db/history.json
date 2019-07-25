@@ -1,0 +1,20 @@
+{
+    "bg_color": "LIGHTBLUE_COLOR",
+    "header_color": "YELLOW_COLOR",
+    "content_color": "white",
+    "header_classes": "text--left",
+    "paragraphs_classes": {
+        "0": "text--left"
+    },
+    "container_classes": "",
+    "ext_info": {
+        "bg_color": "LIGHTBLUE_COLOR",
+        "header_color": "white",
+        "content_color": "white",
+        "header_classes": "text--center",
+        "paragraphs_classes": {
+            "0": "text--center"
+        },
+        "container_classes": "p--1"
+    }
+}

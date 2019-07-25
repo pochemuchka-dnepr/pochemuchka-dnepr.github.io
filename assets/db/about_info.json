@@ -1,0 +1,61 @@
+{
+    "header_color": "white",
+    "content_color": "white",
+    "bg_color": "BLUE_COLOR",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center",
+        "1": "text--center",
+        "2": "text--center"
+    },
+    "container_classes": "",
+    "items": [
+        {
+            "id": "adaptation",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center",
+                "3": "text--center"
+            }
+        },
+        {
+            "id": "personal_plan",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center",
+                "3": "text--center"
+            }
+        },
+        {
+            "id": "plan_correction",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center",
+                "3": "text--center"
+            }
+        },
+        {
+            "id": "communication",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center"
+            }
+        }
+    ]
+}

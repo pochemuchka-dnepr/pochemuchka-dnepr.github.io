@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "id": "main",
+            "header_color": "blue",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "about",
+            "header_color": "blue",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "methodology",
+            "header_color": "blue",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "children",
+            "header_color": "blue",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "parents",
+            "header_color": "blue",
+            "active_header_color": "red",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "photos",
+            "header_color": "blue",
+            "active_header_color": "red",
+            "header_classes": "text--bold fs--1 item__name"
+        },
+        {
+            "id": "contacts",
+            "header_color": "blue",
+            "active_header_color": "red",
+            "header_classes": "text--bold fs--1 item__name"
+        }
+    ]
+}

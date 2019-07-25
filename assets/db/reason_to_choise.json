@@ -1,0 +1,35 @@
+{
+    "header_color": "grey",
+    "content_color": "grey",
+    "bg_color": "white",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center",
+        "1": "text--center",
+        "2": "text--center"
+    },
+    "container_classes": "",
+    "items": [
+        {
+            "id": "comprehensive_development",
+            "header_color": "BLACK_COLOR",
+            "header_bg_color": "GREEN_COLOR",
+            "content_color": "grey",
+            "border_color": "GREEN_COLOR"
+        },
+        {
+            "id": "individual_program",
+            "header_color": "BLACK_COLOR",
+            "header_bg_color": "LIGHTBLUE_COLOR",
+            "content_color": "grey",
+            "border_color": "LIGHTBLUE_COLOR"
+        },
+        {
+            "id": "qualified_staff",
+            "header_color": "BLACK_COLOR",
+            "header_bg_color": "CREME_COLOR",
+            "content_color": "grey",
+            "border_color": "CREME_COLOR"
+        }
+    ]
+}

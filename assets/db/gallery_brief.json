@@ -1,0 +1,6 @@
+{
+    "bg_color": "BLUE_COLOR",
+    "header_color": "white",
+    "header_classes": "text--center",
+    "container_classes": "m-bottom--2 p-top--1 p-bottom--2"
+}

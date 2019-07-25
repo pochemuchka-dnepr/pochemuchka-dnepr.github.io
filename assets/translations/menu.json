@@ -1,0 +1,83 @@
+{
+  "ru": {
+    "menu": {
+      "items": {
+        "main": {
+          "header": "Главная"
+        },
+        "about": {
+          "header": "О нас"
+        },
+        "methodology": {
+          "header": "О методике"
+        },
+        "children": {
+          "header": "Детям"
+        },
+        "parents": {
+          "header": "Родителям"
+        },
+        "photos": {
+          "header": "Фото"
+        },
+        "contacts": {
+          "header": "Контакты"
+        }
+      }
+    }
+  },
+  "en": {
+    "menu": {
+      "items": {
+        "main": {
+          "header": "Главная"
+        },
+        "about": {
+          "header": "О нас"
+        },
+        "methodology": {
+          "header": "О методике"
+        },
+        "children": {
+          "header": "Детям"
+        },
+        "parents": {
+          "header": "Родителям"
+        },
+        "photos": {
+          "header": "Фото"
+        },
+        "contacts": {
+          "header": "Контакты"
+        }
+      }
+    }
+  },
+  "uk": {
+    "menu": {
+      "items": {
+        "main": {
+          "header": "Главная"
+        },
+        "about": {
+          "header": "О нас"
+        },
+        "methodology": {
+          "header": "О методике"
+        },
+        "children": {
+          "header": "Детям"
+        },
+        "parents": {
+          "header": "Родителям"
+        },
+        "photos": {
+          "header": "Фото"
+        },
+        "contacts": {
+          "header": "Контакты"
+        }
+      }
+    }
+  }
+}

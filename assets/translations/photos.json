@@ -1,0 +1,98 @@
+{
+    "ru": {
+        "photos": {
+            "header": "Фотоальбом",
+            "paragraphs": {},
+            "items": {
+                "infant": {
+                    "header": "Группа 0+",
+                    "paragraphs": {}
+                },
+                "toddler": {
+                    "header": "Группа 2,5+",
+                    "paragraphs": {}
+                },
+                "preschooler": {
+                    "header": "Группа 4+",
+                    "paragraphs": {}
+                },
+                "school": {
+                    "header": "Школа",
+                    "paragraphs": {}
+                },
+                "events": {
+                    "header": "Праздники",
+                    "paragraphs": {}
+                },
+                "environment": {
+                    "header": "Наши классы",
+                    "paragraphs": {}
+                }
+            }
+        }
+    },
+    "en": {
+        "photos": {
+            "header": "Фотоальбом",
+            "paragraphs": {},
+            "items": {
+                "infant": {
+                    "header": "Инфант",
+                    "paragraphs": {}
+                },
+                "toddler": {
+                    "header": "Тоддлер",
+                    "paragraphs": {}
+                },
+                "preschooler": {
+                    "header": "3-6",
+                    "paragraphs": {}
+                },
+                "school": {
+                    "header": "Школа",
+                    "paragraphs": {}
+                },
+                "events": {
+                    "header": "Праздники",
+                    "paragraphs": {}
+                },
+                "environment": {
+                    "header": "Среда",
+                    "paragraphs": {}
+                }
+            }
+        }
+    },
+    "uk": {
+        "photos": {
+            "header": "Фотоальбом",
+            "paragraphs": {},
+            "items": {
+                "infant": {
+                    "header": "Инфант",
+                    "paragraphs": {}
+                },
+                "toddler": {
+                    "header": "Тоддлер",
+                    "paragraphs": {}
+                },
+                "preschooler": {
+                    "header": "3-6",
+                    "paragraphs": {}
+                },
+                "school": {
+                    "header": "Школа",
+                    "paragraphs": {}
+                },
+                "events": {
+                    "header": "Праздники",
+                    "paragraphs": {}
+                },
+                "environment": {
+                    "header": "Среда",
+                    "paragraphs": {}
+                }
+            }
+        }
+    }
+}

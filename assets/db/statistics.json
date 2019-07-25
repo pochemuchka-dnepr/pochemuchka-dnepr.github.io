@@ -1,0 +1,56 @@
+{
+    "bg_color": "CREME_COLOR",
+    "header_color": "white",
+    "content_color": "white",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    },
+    "container_classes": "m-top--1 mbottom--1",
+    "items": [
+        {
+            "id": "teachers",
+            "count": "11",
+            "count_color": "white",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "classes",            
+            "count": "50",
+            "count_color": "white",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "children",
+            "count": "1000",
+            "count_color": "white",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        },
+        {
+            "id": "parents",
+            "count": "150",
+            "count_color": "white",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            }
+        }
+    ]
+}

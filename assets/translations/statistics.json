@@ -1,0 +1,98 @@
+{
+    "ru": {
+        "statistics": {
+            "header": "Почемучка в цифрах",
+            "paragraphs": {},
+            "items": {
+                "teachers": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "лет существования"
+                    }
+                },
+                "classes": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "человек в команде профессионалов"
+                    }
+                },
+                "children": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "квадратных метров развивающего пространства"
+                    }
+                },
+                "parents": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "счастливых дошкольников ежегодно"
+                    }
+                }
+            }
+        }
+    },
+    "en": {
+        "statistics": {
+            "header": "Почемучка в цифрах",
+            "paragraphs": {},
+            "items": {
+                "teachers": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "лет существования"
+                    }
+                },
+                "classes": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "человек в команде профессионалов"
+                    }
+                },
+                "children": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "квадратных метров развивающего пространства"
+                    }
+                },
+                "parents": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "счастливых дошкольников ежегодно"
+                    }
+                }
+            }
+        }
+    },
+    "uk": {
+        "statistics": {
+            "header": "Почемучка в цифрах",
+            "paragraphs": {},
+            "items": {
+                "teachers": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "лет существования"
+                    }
+                },
+                "classes": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "человек в команде профессионалов"
+                    }
+                },
+                "children": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "квадратных метров развивающего пространства"
+                    }
+                },
+                "parents": {
+                    "header": "",
+                    "paragraphs": {
+                        "0": "счастливых дошкольников ежегодно"
+                    }
+                }
+            }
+        }
+    }
+}

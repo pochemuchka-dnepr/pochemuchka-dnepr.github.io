@@ -1,0 +1,9 @@
+{
+    "header_color": "grey",
+    "header_classes": "text--center m-bottom--1",
+    "container_classes": "m-top--2 m-bottom--2",
+    "content_color": "grey",
+    "bg_color": "white",
+    "diplomasCount": "10",
+    "controls_color": "BLUE_COLOR"
+}

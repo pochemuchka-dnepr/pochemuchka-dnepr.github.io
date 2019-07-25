@@ -1,0 +1,139 @@
+{
+  "header_brief_color": "RED_COLOR",
+  "header_color": "BLUE_COLOR",
+  "header_classes": "text--center",
+  "header_brief_classes": "m-bottom--2 text--center",
+  "container_classes": "m-top--2 m-bottom--2",
+  "content_color": "grey",
+  "bg_color": "white",
+  "items": [
+    {
+      "id": "infant",
+      "border_color": "GREEN_COLOR",
+      "schedule_border_color": "transparent",
+      "header_color": "BLUE_COLOR",
+      "content_color": "BLUE_COLOR",
+      "header_classes": "text--center",
+      "paragraphs_classes": "",
+      "age": "0+",
+      "age_color": "white",
+      "age_bg_color": "GREEN_COLOR",
+      "age_interval": "0-2,5",
+      "program_header_color": "BLACK_COLOR",
+      "program_content_color": "BLACK_COLOR",
+      "program_bg_color": "LIGHTGREEN_COLOR",
+      "program_link_color": "white",
+      "program_link_bg_color": "GREEN_COLOR",
+      "program_link_classes": "fs--1 text--center p--0-25 pointer",
+      "photo_link_color": "white",
+      "photo_link_bg_color": "BLUE_COLOR",
+      "photo_link_classes": "fs--1 text--center p--0-25 pointer",
+      "duration": "1,5-4",
+      "price": "100",
+      "ext_info": {
+        "paragraphs_classes": {
+          "0": "text--center",
+          "1": "text--right"
+        },
+        "container_classes": ""
+      },
+      "sign_up_link": "https://docs.google.com/forms/d/1yjc3QXXMWJHQzXGJak47I7ylisBCu6KxtVwX88K9oPM/edit?usp=sharing"
+    },
+    {
+      "id": "toddler",
+      "border_color": "BLUE_COLOR",
+      "schedule_border_color": "transparent",
+      "header_color": "BLUE_COLOR",
+      "content_color": "BLUE_COLOR",
+      "header_classes": "text--center",
+      "paragraphs_classes": "",
+      "age": "2,5+",
+      "age_color": "white",
+      "age_bg_color": "BLUE_COLOR",
+      "age_interval": "2,5-4",
+      "program_header_color": "WHITE_COLOR",
+      "program_content_color": "WHITE_COLOR",
+      "program_bg_color": "LIGHTBLUE_COLOR",
+      "program_link_color": "white",
+      "program_link_bg_color": "BLUE_COLOR",
+      "program_link_classes": "fs--1 text--center p--0-25 pointer",
+      "photo_link_color": "white",
+      "photo_link_bg_color": "BLUE_COLOR",
+      "photo_link_classes": "fs--1 text--center p--0-25 pointer",
+      "duration": "1,5-8",
+      "price": "100",
+      "ext_info": {
+        "paragraphs_classes": {
+          "0": "text--center",
+          "1": "text--right"
+        },
+        "container_classes": ""
+      },
+      "sign_up_link": "https://docs.google.com/forms/d/e/1FAIpQLSeeBN6mSoWNLSvVN39Lk9S0outYukHOifNzRMfkgC8JpRV4rQ/viewform?usp=sf_link"
+    },
+    {
+      "id": "preschooler",
+      "border_color": "YELLOW_COLOR",
+      "schedule_border_color": "transparent",
+      "header_color": "BLUE_COLOR",
+      "content_color": "BLUE_COLOR",
+      "header_classes": "text--center",
+      "paragraphs_classes": "",
+      "age": "4+",
+      "age_color": "white",
+      "age_bg_color": "YELLOW_COLOR",
+      "age_interval": "4-7",
+      "program_header_color": "BLACK_COLOR",
+      "program_content_color": "BLACK_COLOR",
+      "program_bg_color": "LIGHTYELLOW_COLOR",
+      "program_link_color": "white",
+      "program_link_bg_color": "YELLOW_COLOR",
+      "program_link_classes": "fs--1 text--center p--0-25 pointer",
+      "photo_link_color": "white",
+      "photo_link_bg_color": "BLUE_COLOR",
+      "photo_link_classes": "fs--1 text--center p--0-25 pointer",
+      "duration": "1,5-8",
+      "price": "100",
+      "ext_info": {
+        "paragraphs_classes": {
+          "0": "text--center",
+          "1": "text--right"
+        },
+        "container_classes": ""
+      },
+      "sign_up_link": "https://docs.google.com/forms/d/e/1FAIpQLSd11_rcUVdW7KVKF-nMZWSY9Lpoga70PRmCVAVdf8fZf-RPXA/viewform?usp=sf_link"
+    },
+    {
+      "id": "school",
+      "border_color": "RED_COLOR",
+      "schedule_border_color": "transparent",
+      "header_color": "BLUE_COLOR",
+      "content_color": "BLUE_COLOR",
+      "header_classes": "text--center",
+      "paragraphs_classes": "",
+      "age": "7+",
+      "age_color": "white",
+      "age_bg_color": "RED_COLOR",
+      "age_interval": "7-12",
+      "program_header_color": "WHITE_COLOR",
+      "program_content_color": "WHITE_COLOR",
+      "program_bg_color": "ROSE_COLOR",
+      "program_link_color": "WHITE_COLOR",
+      "program_link_bg_color": "RED_COLOR",
+      "program_link_classes": "fs--1 text--center p--0-25 pointer",
+      "photo_link_color": "white",
+      "photo_link_bg_color": "BLUE_COLOR",
+      "photo_link_classes": "fs--1 text--center p--0-25 pointer",
+      "duration": "4-8",
+      "price": "6000",
+      "ext_info": {
+        "paragraphs_classes": {
+          "0": "text--center",
+          "1": "text--right"
+        },
+        "container_classes": ""
+      },
+      "sign_up_link": "https://docs.google.com/forms/d/e/1FAIpQLSfVaRXo9fvJ419V6bL_w28M-aKFQnRN_3ER1CAWjjoQE__bvg/viewform?usp=sf_link"
+    }
+  ]
+}

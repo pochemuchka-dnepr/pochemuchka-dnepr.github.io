@@ -1,0 +1,63 @@
+{
+    "header_color": "white",
+    "content_color": "white",
+    "bg_color": "white",
+    "container_classes": "",
+    "items": [
+        {
+            "id": "intro",
+            "bg_color": "BLUE_COLOR",
+            "header_color": "white",
+            "content_color": "white",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--right"
+            },
+            "container_classes": "p--2 m-bottom--2"
+        },
+        {
+            "id": "childhood",
+            "bg_color": "white",
+            "header_color": "BLUE_COLOR",
+            "content_color": "grey",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center",
+                "3": "text--center",
+                "4": "text--center",
+                "5": "text--center",
+                "6": "text--center"
+            },
+            "container_classes": "p--2"
+        },
+        {
+            "id": "parent",
+            "bg_color": "GREEN_COLOR",
+            "header_color": "WHITE_COLOR",
+            "content_color": "WHITE_COLOR",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center m-top--0",
+                "1": "text--center",
+                "2": "text--center"
+            },
+            "container_classes": "p--2"
+        },
+        {
+            "id": "outro",
+            "bg_color": "CREME_COLOR",
+            "header_color": "BLACK_COLOR",
+            "content_color": "BLACK_COLOR",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center",
+                "1": "text--center",
+                "2": "text--center"
+            },
+            "container_classes": "p--2"
+        }
+    ]
+}

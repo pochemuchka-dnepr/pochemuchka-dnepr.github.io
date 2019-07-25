@@ -1,0 +1,44 @@
+{
+  "ru": {
+    "contacts": {
+      "header": "Наши контакты",
+      "kindergarten_territory": "Территория сада",
+      "school_territory": "Территория школы",
+      "country": "Украина",
+      "city": "Днепр",
+      "street_kindergarten": "ул. Литовская",
+      "street_school": "ул. Мукаша Салакунова",
+      "phone": "Телефон",
+      "viber": "Viber",
+      "callback": "заказать звонок"
+    }
+  },
+  "en": {
+    "contacts": {
+      "header": "Our contacts",
+      "kindergarten_territory": "",
+      "school_territory": "",
+      "country": "",
+      "city": "",
+      "street_kindergarten": "",
+      "street_school": "",
+      "phone": "",
+      "viber": "Viber",
+      "callback": ""
+    }
+  },
+  "uk": {
+    "contacts": {
+      "header": "Наші контакти",
+      "kindergarten_territory": "",
+      "school_territory": "",
+      "country": "",
+      "city": "",
+      "street_kindergarten": "",
+      "street_school": "",
+      "phone": "",
+      "viber": "Viber",
+      "callback": ""
+    }
+  }
+}

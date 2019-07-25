@@ -1,0 +1,41 @@
+{
+  "header_color": "grey",
+  "content_color": "grey",
+  "bg_color": "white",
+  "header_classes": "text--center",
+  "container_classes": "m-top--2 m-bottom--2",
+  "paragraphs_classes": {
+      "0": "text--center",
+      "1": "text--center"
+  },
+  "items": [
+    {
+      "id": "consulting",
+      "header_color": "white",
+      "header_bg_color": "red",
+      "header_classes": "event-item-header h--100 d--flex align-items--center justify-content--center fs--1-25",
+      "container_clasess": "m-bottom--1"
+    },
+    {
+      "id": "open_doors",
+      "header_color": "white",
+      "header_bg_color": "BLUE_COLOR",
+      "header_classes": "event-item-header h--100 d--flex align-items--center justify-content--center fs--1-25",
+      "container_clasess": "m-bottom--1"
+    },
+    {
+      "id": "seminar",
+      "header_color": "white",
+      "header_bg_color": "orange",
+      "header_classes": "event-item-header h--100 d--flex align-items--center justify-content--center fs--1-25",
+      "container_clasess": "m-bottom--1"
+    },
+    {
+      "id": "training",
+      "header_color": "white",
+      "header_bg_color": "GREEN_COLOR",
+      "header_classes": "event-item-header h--100 d--flex align-items--center justify-content--center fs--1-25",
+      "container_clasess": "m-bottom--1"
+    }
+  ]
+}

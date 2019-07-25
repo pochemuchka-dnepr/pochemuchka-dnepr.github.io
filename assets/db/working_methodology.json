@@ -1,0 +1,81 @@
+{
+    "header_color": "grey",
+    "content_color": "grey",
+    "bg_color": "white",
+    "header_classes": "text--center",
+    "paragraphs_classes": {
+        "0": "text--center"
+    },
+    "container_classes": "m-top--1 m-bottom--2",
+    "items": [
+        {
+            "id": "history",
+            "header_color": "WHITE_COLOR",
+            "header_bg_color": "GREEN_COLOR",
+            "border_color": "GREEN_COLOR",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            },
+            "container_classes": "m-bottom--1",
+            "ext_info": {
+                "bg_color": "GREEN_COLOR",
+                "header_color": "BLACK_COLOR",
+                "header_bg_color": "GREEN_COLOR",
+                "content_color": "BLACK_COLOR",
+                "content_bg_color": "GREEN_COLOR",
+                "header_classes": "text--center",
+                "paragraphs_classes": {
+                    "0": "text--center"
+                },
+                "container_classes": ""
+            }
+        },
+        {
+            "id": "materials",
+            "header_color": "WHITE_COLOR",
+            "header_bg_color": "LIGHTBLUE_COLOR",
+            "border_color": "LIGHTBLUE_COLOR",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            },
+            "container_classes": "m-bottom--1",
+            "ext_info": {
+                "bg_color": "LIGHTBLUE_COLOR",
+                "header_color": "BLACK_COLOR",
+                "header_bg_color": "LIGHTBLUE_COLOR",
+                "content_color": "BLACK_COLOR",
+                "content_bg_color": "LIGHTBLUE_COLOR",
+                "header_classes": "text--center",
+                "paragraphs_classes": {
+                    "0": "text--center"
+                },
+                "container_classes": ""
+            }
+        },
+        {
+            "id": "strategy",
+            "header_color": "WHITE_COLOR",
+            "header_bg_color": "CREME_COLOR",
+            "border_color": "CREME_COLOR",
+            "header_classes": "text--center",
+            "paragraphs_classes": {
+                "0": "text--center"
+            },
+            "container_classes": "m-bottom--1",
+            "ext_info": {
+                "bg_color": "CREME_COLOR",
+                "header_color": "BLACK_COLOR",
+                "header_bg_color": "CREME_COLOR",
+                "content_color": "BLACK_COLOR",
+                "content_bg_color": "CREME_COLOR",
+                "header_classes": "text--center",
+                "paragraphs_classes": {
+                    "0": "text--center"
+                },
+                "container_classes": ""
+            }
+        }
+    ]
+}
